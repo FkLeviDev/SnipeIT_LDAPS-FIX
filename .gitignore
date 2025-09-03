@@ -1,0 +1,32 @@
+# IDE fájlok
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log fájlok
+*.log
+logs/
+
+# Ideiglenes fájlok
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS fájlok
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PHP cache
+*.cache
+cache/
+
+# Konfigurációs fájlok (ha tartalmaznak érzékeny adatokat)
+# ldaps_config.php
+
+# Teszt fájlok
+test_*.php
+*_test.php
